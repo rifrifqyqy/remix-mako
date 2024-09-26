@@ -1,0 +1,30 @@
+[
+    {
+      "name": "bread",
+      "img": "https://assets.makobakery.com/cdn/web/category/1669362175_binoq-spicy-floss-1000x49.jpg"
+    },
+    {
+      "name": "danish",
+      "img": "https://assets.makobakery.com/cdn/web/product_category_thumb/1621548370_category-danish.jpg"
+    },
+    {
+      "name": "toast",
+      "img": "https://assets.makobakery.com/cdn/web/product_category_thumb/1621548518_category-toast.jpg"
+    },
+    {
+      "name": "slice Cake",
+      "img": "https://assets.makobakery.com/cdn/web/product_category_thumb/1621548536_category-slice-cake.jpg"
+    },
+    {
+      "name": "dry Cake",
+      "img": "https://assets.makobakery.com/cdn/web/product_category_thumb/1621548567_category-dry-cake.jpg"
+    },
+    {
+      "name": "cookies",
+      "img": "https://assets.makobakery.com/cdn/web/category/1722331813_1000-x-494px-copy.jpg"
+    },
+    {
+      "name": "hampers",
+      "img": "https://assets.makobakery.com/cdn/web/category/1722399724_diamond-onyx-copy.jpg"
+    }
+  ]
