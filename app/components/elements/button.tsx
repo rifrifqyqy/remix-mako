@@ -8,9 +8,23 @@ interface ButtonProps {
   style?: string;
 }
 
-export default function RemixButton({ children, onClick, color, textstyle, style }: ButtonProps) {
+export default function RemixButton({
+  children,
+  onClick,
+  color,
+  textstyle,
+  style,
+}: ButtonProps) {
   return (
-    <button className={twMerge(`bg-slate-800 text-white px-4 py-2 rounded-md hover:opacity-85 transition-all`, color, textstyle, style)} onClick={onClick}>
+    <button
+      className={twMerge(
+        `rounded-md bg-slate-800 px-4 py-2 text-white transition-all hover:opacity-85`,
+        color,
+        textstyle,
+        style,
+      )}
+      onClick={onClick}
+    >
       {children}
     </button>
   );
